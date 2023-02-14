@@ -1,0 +1,42 @@
+body{
+
+background-image: url(https://img.freepik.com/fotos-premium/textura-papel-viejo-fondo-papel-vintage_262663-434.jpg?w=1380);
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: cover;
+}
+
+div{
+    background-color: brown;
+    margin: 40px 0;
+    width: 250px;
+    height: auto;
+    justify-content: center;
+
+}
+
+.box1{
+width: auto;
+margin: auto;
+height: 200px;
+display: flex;
+justify-content: center;
+
+
+}
+
+.box2{
+    background-color: antiquewhite;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.box3{
+    background-color: green;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
