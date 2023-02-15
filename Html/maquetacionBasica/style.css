@@ -28,15 +28,20 @@ div {
     width: auto;
     margin: auto;
     height: 200px;
-    display: flex;
+    display: inline-flex;
     text-align: center;
-
+    top: 0px;
+    left: 0px;
+    right: 0px;
 }
 
 .box-titulo {
     width: auto;
     height: 80px;
     text-align: center;
+    top: 0px;
+    left: 0px;
+    right: 0px;
 
 }
 
@@ -46,6 +51,8 @@ div {
     height: 0px;
     float: center;
     text-align: center;
+    right: 0px;
+    top: 0px;
 
 }
 
@@ -56,6 +63,9 @@ div {
     float: right;
     margin-right: 30px;
     text-align: center;
+    top: 0px;
+    left: 0px;
+    right: 0px;
 
 
 }
@@ -64,6 +74,8 @@ div {
     width: 400px;
     height: 200px;
     text-align: left;
+    left: 0px;
+    top: 0px;
 }
 
 .box-Mitad {
@@ -86,4 +98,6 @@ p {
     width: 400px;
     height: 200px;
     text-align: right;
+    top: 0px;
+    right: 0px;
 }
