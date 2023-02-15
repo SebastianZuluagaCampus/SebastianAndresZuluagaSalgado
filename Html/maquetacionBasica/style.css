@@ -1,21 +1,21 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
 
 
-body{
+body {
 
-background-image: url(https://img.freepik.com/fotos-premium/textura-papel-viejo-fondo-papel-vintage_262663-434.jpg?w=1380);
-    
+    background-image: url(https://img.freepik.com/fotos-premium/textura-papel-viejo-fondo-papel-vintage_262663-434.jpg?w=1380);
+
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     width: cover;
 }
 
-div{
-   
+div {
+
     margin: auto;
     width: 1500px;
     height: 781px;
@@ -24,64 +24,66 @@ div{
 
 }
 
-.box1{
-width: auto;
-margin: auto;
-height: 200px;
-display: flex;
-justify-content: center;
-text-align: center;
-
-}
-.box-titulo{
-width: auto;
-height: 80px;
-text-align: center;
+.box1 {
+    width: auto;
+    margin: auto;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
 
 }
 
-.box2{
+.box-titulo {
+    width: auto;
+    height: 80px;
+    text-align: center;
+
+}
+
+.box2 {
     background-color: antiquewhite;
     width: 280px;
     height: 0px;
     float: center;
     text-align: center;
-    
+
 }
 
-.box3{
-    
+.box3 {
+
     width: 290px;
     height: 800px;
     float: right;
     margin-right: 30px;
     text-align: center;
-    
+
 
 }
-.box4{
+
+.box4 {
     width: 400px;
     height: 200px;
     text-align: left;
 }
 
-.box-Mitad{
-width: 260px;
-height: 800px;
-float: left;
-margin-left: 30px;
-text-align: center;
+.box-Mitad {
+    width: 260px;
+    height: 800px;
+    float: left;
+    margin-left: 30px;
+    text-align: center;
 
 }
 
-p{
+p {
 
-text-align: justify;
+    text-align: justify;
 
 }
 
-.box5{
-   
+.box5 {
+
     width: 400px;
     height: 200px;
     text-align: right;
