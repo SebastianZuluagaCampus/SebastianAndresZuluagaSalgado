@@ -1,4 +1,4 @@
+def invertir_cadena(cadena):
+    return cadena[::-1]
 
-numeros = ["34","6","100","40","6"]
-numeros.sort() 
-print(numeros)
+print(invertir_cadena("Hola mundo"))
