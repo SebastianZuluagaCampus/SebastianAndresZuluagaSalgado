@@ -207,8 +207,6 @@ d2 = dict([
 
 print(d2)
 
-print("-----------------------EMPRESA-----------------------\n")
-
 print("-------------------Almacen de Ropa-------------------")
 camisas = int(input("Camisas vendidas: "))
 pantalones = int(input("Pantalones vendidos: "))
